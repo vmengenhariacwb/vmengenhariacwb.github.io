@@ -1,0 +1,25 @@
+# Publicar só o que o site usa (o repositório é público)
+
+# Anotações e instruções internas
+PEDIDOS-PENDENTES.md
+CLAUDE.md
+.claude/
+
+# Fotos originais e fotos ainda não tratadas
+fotos/
+fotos-novas/
+
+# fotos-otimizadas: só vão para o GitHub os arquivos liberados abaixo.
+# Ao colocar uma foto nova no site, acrescente uma linha "!fotos-otimizadas/nome.jpg".
+fotos-otimizadas/*
+!fotos-otimizadas/favicon.png
+!fotos-otimizadas/logo-vm-clara.png
+!fotos-otimizadas/og-image.jpg
+!fotos-otimizadas/obra-sobrado-estrutura.jpg
+!fotos-otimizadas/obra-sobrado-terreo.jpg
+!fotos-otimizadas/obra-troca-telhado.jpg
+!fotos-otimizadas/obra-apartamento-antes.jpg
+!fotos-otimizadas/regularizacao-barracao-vaga-pcd.jpg
+!fotos-otimizadas/regularizacao-predio-fachada.jpg
+!fotos-otimizadas/regularizacao-predio-studio.jpg
+!fotos-otimizadas/regularizacao-predio-cozinha-1.jpg
