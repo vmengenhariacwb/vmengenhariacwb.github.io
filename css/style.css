@@ -180,6 +180,14 @@ p { margin: 0 0 1em; }
 .gallery img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
 .gallery figcaption { padding: 12px 16px; font-size: .9rem; color: var(--texto); }
 
+/* Obras: cada obra com nome, local/ano e 4 fotos */
+.obras { margin-bottom: 72px; }
+.obra { margin-bottom: 44px; }
+.obra:last-child { margin-bottom: 0; }
+.obra__nome { font-size: 1.02rem; font-weight: 600; color: var(--titulo); margin: 0 0 .2em; }
+.obra__info { font-size: .88rem; color: var(--texto-suave); margin: 0 0 14px; }
+.obra .gallery { margin-bottom: 0; }
+
 /* ---------- Sobre ---------- */
 .about { display: grid; grid-template-columns: 340px 1fr; gap: 72px; align-items: center; }
 .about__logo {
