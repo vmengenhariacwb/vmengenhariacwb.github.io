@@ -9,6 +9,9 @@ CLAUDE.md
 fotos/
 fotos-novas/
 
+# Artes para redes sociais (não fazem parte do site)
+instagram/
+
 # fotos-otimizadas: só vão para o GitHub os arquivos liberados abaixo.
 # Ao colocar uma foto nova no site, acrescente uma linha "!fotos-otimizadas/nome.jpg".
 fotos-otimizadas/*
@@ -48,3 +51,34 @@ fotos-otimizadas/*
 !fotos-otimizadas/obra-comercial-pinhais-estrutura.jpg
 !fotos-otimizadas/obra-comercial-pinhais-manta.jpg
 !fotos-otimizadas/obra-comercial-pinhais-gradil.jpg
+
+# Obras novas (Immich, Nov/2026)
+!fotos-otimizadas/obra-chacara-antes.jpg
+!fotos-otimizadas/obra-chacara-depois.jpg
+!fotos-otimizadas/obra-chacara-telhado-obra.jpg
+!fotos-otimizadas/obra-chacara-telhado.jpg
+!fotos-otimizadas/obra-cozinha-ahu-obra.jpg
+!fotos-otimizadas/obra-cozinha-ahu.jpg
+!fotos-otimizadas/obra-cozinha-antes.jpg
+!fotos-otimizadas/obra-cozinha-depois.jpg
+!fotos-otimizadas/obra-portao-area-coberta.jpg
+!fotos-otimizadas/obra-portao-fachada-obra.jpg
+!fotos-otimizadas/obra-portao-fachada.jpg
+!fotos-otimizadas/obra-portao-quintal.jpg
+!fotos-otimizadas/obra-sobrado-colombo-acabamento.jpg
+!fotos-otimizadas/obra-telhado-uberaba-antes.jpg
+!fotos-otimizadas/obra-telhado-uberaba-colocacao.jpg
+!fotos-otimizadas/obra-telhado-uberaba-depois.jpg
+!fotos-otimizadas/obra-telhado-uberaba-equipe.jpg
+!fotos-otimizadas/obra-telhado-uberaba-estrutura.jpg
+!fotos-otimizadas/obra-telhado-uberaba-paver.jpg
+!fotos-otimizadas/obra-telhado-uberaba-ripamento.jpg
+!fotos-otimizadas/obra-telhado-uberaba-telhas.jpg
+!fotos-otimizadas/obra-apto-ahu-antes.jpg
+!fotos-otimizadas/obra-apto-ahu-demolicao.jpg
+!fotos-otimizadas/obra-apto-ahu-preparacao.jpg
+!fotos-otimizadas/obra-apto-ahu-porcelanato.jpg
+!fotos-otimizadas/obra-apto-ahu-cozinha.jpg
+!fotos-otimizadas/obra-apto-ahu-nicho.jpg
+!fotos-otimizadas/obra-apto-ahu-paredes.jpg
+!fotos-otimizadas/obra-apto-ahu-banheiro.jpg
